@@ -1,1 +1,2 @@
-# program_kasir
+# Program Kasir Python
+Program kasir restoran dengan output nota pesanan
