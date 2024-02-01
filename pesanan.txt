@@ -1,0 +1,5 @@
+{"Kode Transaksi": "20240201213445", "Nama Pelanggan": "Syahrul", "orders": [{"item": "Rendang", "porsi": 2, "harga": 50000}, {"item": "Cumi", "porsi": 2, "harga": 40000}, {"item": "Es Teh", "porsi": 4, "harga": 20000}], "total_harga": 110000}
+{"Kode Transaksi": "20240201213524", "Nama Pelanggan": "Andra", "orders": [{"item": "Lobster", "porsi": 7, "harga": 280000}, {"item": "Nasi Goreng", "porsi": 2, "harga": 30000}, {"item": "Es Teh", "porsi": 9, "harga": 45000}], "total_harga": 355000}
+{"Kode Transaksi": "20240201213602", "Nama Pelanggan": "Siti", "orders": [{"item": "Ikan Nila", "porsi": 2, "harga": 40000}, {"item": "Soto Ayam", "porsi": 2, "harga": 20000}, {"item": "Jus Alpukat", "porsi": 4, "harga": 44000}], "total_harga": 104000}
+{"Kode Transaksi": "20240201221337", "Nama Pelanggan": "Adam", "orders": [{"item": "Rendang", "porsi": 2, "harga": 50000}, {"item": "Jus Alpukat", "porsi": 2, "harga": 22000}], "total_harga": 72000}
+{"Kode Transaksi": "20240201221433", "Nama Pelanggan": "Hasan", "orders": [{"item": "Ikan Nila", "porsi": 4, "harga": 80000}, {"item": "Jus Durian", "porsi": 4, "harga": 48000}], "total_harga": 128000}
